@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=Board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MCU.SCHDOC|SymbolType=Normal|RawFileName=MCU.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Thermometer.SCHDOC|SymbolType=Normal|RawFileName=Thermometer.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=Board.SchDoc

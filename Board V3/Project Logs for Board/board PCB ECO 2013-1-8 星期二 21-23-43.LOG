@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=22P-1
+Removed Pin From Net: NetName=OSC_1 Pin=22P-2
+Removed Pin From Net: NetName=VDD Pin=100uF-1
+Removed Pin From Net: NetName=GND Pin=100uF-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=OSC_2 Pin=C29-2
+Removed Member From Class: ClassName=Designator Member=C10
+Removed Member From Class: ClassName=Designator Member=C14
+Removed Member From Class: ClassName=Designator Member=C14
+Removed Member From Class: ClassName=Designator Member=C14
+Removed Member From Class: ClassName=Board Member=C15
+Removed Member From Class: ClassName=Board Member=C15
+Removed Member From Class: ClassName=Board Member=C17
+Removed Member From Class: ClassName=Designator Member=C31
+Removed Member From Class: ClassName=Designator Member=R2
+Removed Member From Class: ClassName=Designator Member=R4
+Removed Member From Class: ClassName=Designator Member=R6
+Removed Member From Class: ClassName=Designator Member=R8
+Removed Member From Class: ClassName=Designator Member=R9
+Removed Member From Class: ClassName=Designator Member=R11
+Removed Member From Class: ClassName=Designator Member=R12
+Removed Member From Class: ClassName=Designator Member=R13
+Removed Member From Class: ClassName=Designator Member=R13
+Removed Member From Class: ClassName=Designator Member=R13
+Removed Member From Class: ClassName=Designator Member=R18
+Removed Member From Class: ClassName=Designator Member=R18
+Removed Member From Class: ClassName=Designator Member=R25
+Removed Member From Class: ClassName=Designator Member=R25
+Change Component Designator: OldDesignator=22P NewDesignator=C29
+Added Pin To Net: NetName=REF Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=OSC_2 Pin=C29-2
+Added Member To Class: ClassName=Board Member=Component C7 Cap
+Added Member To Class: ClassName=Board Member=Component C8 Cap
+Added Member To Class: ClassName=Board Member=Component C9 Cap
+Added Member To Class: ClassName=Designator Member=Component C19 Cap

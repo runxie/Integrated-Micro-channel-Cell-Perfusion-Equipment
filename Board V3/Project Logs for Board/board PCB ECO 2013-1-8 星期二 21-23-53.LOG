@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RED Pin=10K-1
+Removed Pin From Net: NetName=NetQ2_3 Pin=10K-2
+Removed Pin From Net: NetName=T_U_O Pin=510K-1
+Removed Pin From Net: NetName=IN+ Pin=510K-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=OSC_1 Pin=C28-2
+Change Component Designator: OldDesignator=22P NewDesignator=C28
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=OSC_1 Pin=C28-2
+Added Member To Class: ClassName=Designator Member=Component C14 Cap
+Added Member To Class: ClassName=Designator Member=Component R13 Res
+Added Room: Name=Board
+Added Room: Name=Designator
+Added Room: Name=Designator

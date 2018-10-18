@@ -1,0 +1,5 @@
+Added Component: Designator=S1(DPDT-6)
+Added Pin To Net: NetName=12V Pin=S1-1
+Added Pin To Net: NetName=PWR Pin=S1-2
+Added Pin To Net: NetName=12V Pin=S1-6
+Added Member To Class: ClassName=Board Member=Component S1 SW-DPDT
